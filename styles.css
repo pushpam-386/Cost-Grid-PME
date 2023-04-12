@@ -1,0 +1,71 @@
+#category {
+    border: 2px solid black;
+    width: 150px;
+    height: 30px;
+}
+
+#insert {
+    border: 3px solid black;
+    width: 90px;
+    height: 40px;
+    color: aliceblue;
+    background-color: rgb(100, 100, 183);
+}
+
+#spreadsheet {
+    margin-top: 20px;
+}
+
+#addcategory {
+    margin-left: 400px;
+    margin-top: 80px;
+    border: 3px solid black;
+    width: 120px;
+    height: 40px;
+    color: aliceblue;
+    background-color: rgb(100, 100, 183);
+}
+
+#manageCategory {
+    margin-top: 80px;
+    border: 3px solid black;
+    width: 150px;
+    height: 40px;
+    color: aliceblue;
+    background-color: rgb(100, 100, 183);
+    padding-left: 8px;
+}
+
+#addCategoryPopup {
+    display: none;
+    width: 700px;
+    height: 230px;
+    position: fixed;
+    bottom: 300px;
+    right: 400px;
+    border: 1px solid #611212;
+    z-index: 9;
+    background-color: rgb(238, 238, 238);
+}
+
+#labelCategory {
+    width: auto;
+    height: 55px;
+    border: 1px solid rgba(187, 173, 173, 0.918);
+}
+
+#manageCategoryPopup {
+    display: none;
+    width: 700px;
+    height: 330px;
+    position: fixed;
+    bottom: 300px;
+    right: 400px;
+    border: 1px solid #611212;
+    z-index: 9;
+    background-color: rgb(238, 238, 238);
+}
+
+
+
+
